@@ -1,0 +1,4 @@
+student_id,course_category,assignments_completed,course_progress_percent,video_completion_rate,video_watch_percent,forum_interactions,avg_session_minutes,lms_logins_past_month,login_frequency_per_week
+EXAMPLE-01,Example course,8,75,0.9,85,20,45,25,10
+EXAMPLE-02,Example course,2,25,0.6,35,3,20,8,2
+EXAMPLE-03,Example course,5,55,0.8,60,12,35,18,6
